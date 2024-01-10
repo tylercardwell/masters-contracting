@@ -1,5 +1,7 @@
 Masters Contracting Website
+
 About The Project
+
 Welcome to the repository for the Masters Contracting website. This project is a static website designed for Masters Contracting, a locally owned roofing company. The goal of this website is to provide an online presence for the company, showcasing their services, work portfolio, and contact information.
 
 Built With
